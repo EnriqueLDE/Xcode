@@ -12,6 +12,7 @@
 		E321044E1F7A30C100B194C9 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E321044C1F7A30C100B194C9 /* Main.storyboard */; };
 		E32104501F7A30C100B194C9 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E321044F1F7A30C100B194C9 /* Assets.xcassets */; };
 		E32104531F7A30C100B194C9 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E32104511F7A30C100B194C9 /* LaunchScreen.storyboard */; };
+		E3F56BF71F84F8C500F398BE /* Calculadora in Resources */ = {isa = PBXBuildFile; fileRef = E3F56BF61F84F8C500F398BE /* Calculadora */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		E321044F1F7A30C100B194C9 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		E32104521F7A30C100B194C9 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		E32104541F7A30C100B194C9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E3F56BF61F84F8C500F398BE /* Calculadora */ = {isa = PBXFileReference; lastKnownFileType = folder; name = Calculadora; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -38,6 +40,7 @@
 		E321043C1F7A30C100B194C9 = {
 			isa = PBXGroup;
 			children = (
+				E3F56BF61F84F8C500F398BE /* Calculadora */,
 				E32104471F7A30C100B194C9 /* Calculadora */,
 				E32104461F7A30C100B194C9 /* Products */,
 			);
@@ -125,6 +128,7 @@
 			files = (
 				E32104531F7A30C100B194C9 /* LaunchScreen.storyboard in Resources */,
 				E32104501F7A30C100B194C9 /* Assets.xcassets in Resources */,
+				E3F56BF71F84F8C500F398BE /* Calculadora in Resources */,
 				E321044E1F7A30C100B194C9 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -299,6 +303,7 @@
 				E32104591F7A30C100B194C9 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
